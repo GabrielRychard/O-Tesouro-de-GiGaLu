@@ -100,4 +100,4 @@ Confira se estes arquivos ficaram **na mesma pasta**:
 
 ## Créditos
 
-Sprites originais em pixel art, feitos por código com assistência do Claude (Anthropic).
+Feito por Gabriel Rychard, aluno de GTI na Fatec 2° Semestre
